@@ -1,0 +1,17 @@
+{
+  "version": "b2117fdbe94d3e29e12c539047d99eaff94fb6e7",
+  "artifact": "us.icr.io/ci-lab-namespace/node-js-app:20220905044541-main-b2117fdbe94d3e29e12c539047d99eaff94fb6e7@sha256:fe2ce7ea64137760443654de72a4f52bad088f70213222c0f99f2783bcd9c290",
+  "name": "node-js-app",
+  "repository_url": "https://github.com/nishubharti/node-js-app",
+  "build_number": 13,
+  "commit_sha": "b2117fdbe94d3e29e12c539047d99eaff94fb6e7",
+  "pipeline_run_id": "e28c29d1-907f-47c1-b2be-dce81dd371ca",
+  "app_artifacts": {
+    "app": "hello-compliance-app",
+    "tags": "20220905044541-main-b2117fdbe94d3e29e12c539047d99eaff94fb6e7"
+  },
+  "type": "image",
+  "sha256": "sha256:fe2ce7ea64137760443654de72a4f52bad088f70213222c0f99f2783bcd9c290",
+  "provenance": "us.icr.io/ci-lab-namespace/node-js-app:20220905044541-main-b2117fdbe94d3e29e12c539047d99eaff94fb6e7@sha256:fe2ce7ea64137760443654de72a4f52bad088f70213222c0f99f2783bcd9c290",
+  "signature": "owGbwMvMwMHo9/OLxfTH1lqMpw+sTGJIFq0/Va2UXJRZkpmcmKNkVa2UmZKaV5JZUglip+QnZ6cW6RalpqUWpeYlpypZKZUW62UmF+ll5usnZ+rmJCbp5iXmphYXJCan6uflp6TqZhXrJhYUWBkZGBkZWBqYGpiYmJoY6uYmZubpJhkZGpqnpSSlWpqkGKcaWaYaGiWbGlsamJinWFqmJqalWZqkJZmlmivV6ihl5iampyI5ITcxLzMttbhENyUzHUgBHVKckWhkamaVlmqUnGqemmhmYmhsbm4GtM/YzNQkJdXcKNEkzdQoKTHFwMIizdzAyNDYyMgo2SDN0jLNyNzCOCk5xTLZyNIAZFlJZQHIa4kl+bmZyQrJ+XklQOemFikUZ6bnJZaUFqWCFOUXlGTm50HCKLkoFai4CKHHVM/QQM9UCWhUJjA0ShJzC5SsDM3MjIxNjY1NTWprO5mMWRgYORhkxRRZtust6q/eqadVn7FxGSwyWJlAEcHAxSkAEzk8WYChLe3VvU2vtbcYXffZ3p96uyMvxEQ66N3q93ysoYtmLo027eM9z6u86/j1g/+PzzK/mFOjvfTVjujrp31EDNUat06/eZjT7q7Hn9+/yj+qhkx6Nb/oX/jRvLWvNZOyo75X91/WfZ+h9EXKYgrbMXOxe4cfylQpTdmx+ck5Qc6IbF6vPWLr3x9zN2kym/VBI+0iExfrkRcrp7f9Pf0x/9KR2u2rn9r2KrlYlJpcqvEPFldZLGx+lXvnZPY9r5ZUTMqYIFvH5718hfiL41oeT5f82Gx1+tbxiR/W2rMtUV64fdWBGQxbTD12i8w/a/ng3dMDAk8u3RbUOX/k8KqTTJPYdTrKquJm6bYtSWKbELC7NWED45sNWjY8gVx1N9bccWc/+fGfy9HMOGWnLkn377NNzL9pt39huf474T3LmmksyglKu9R2PvG7efnNi5f+LgsC1n34z3tv4rNnTibrL6Y5bKqwNxPdM+Gyov5vqb3L9ulxslpMNZ4QWPky1v3eRENjdneF1Muqa5YVmcis4fq1QN1DlH3p1r5w8TNfVI4stUhzPSau/sowcdaniJzfZ9dP/Fzr8uJbv7b8vA+BXza3cc5al8a7+HNVm5/zllNBXdsezrP6fWRt2vToyupTpYv0j/PN/nngy6E5xR1RGZla1VwRZy/KFO38YhU82/nonxSxyonCibsSFa0jLY5u7jjMVCy1ZsKrV3nsrC/f8QQDAA=="
+}
