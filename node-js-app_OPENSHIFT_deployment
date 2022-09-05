@@ -1,0 +1,12 @@
+{
+  "version": "b2117fdbe94d3e29e12c539047d99eaff94fb6e7",
+  "artifact": "https://raw.githubusercontent.com/nishubharti/node-js-app/b2117fdbe94d3e29e12c539047d99eaff94fb6e7/deployment_os.yml",
+  "name": "node-js-app_OPENSHIFT_deployment",
+  "repository_url": "https://github.com/nishubharti/node-js-app",
+  "build_number": 13,
+  "commit_sha": "b2117fdbe94d3e29e12c539047d99eaff94fb6e7",
+  "pipeline_run_id": "e28c29d1-907f-47c1-b2be-dce81dd371ca",
+  "type": "deployment",
+  "sha256": "",
+  "signature": ""
+}
