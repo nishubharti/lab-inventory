@@ -1,11 +1,11 @@
 {
-  "version": "b2117fdbe94d3e29e12c539047d99eaff94fb6e7",
-  "artifact": "https://raw.githubusercontent.com/nishubharti/node-js-app/b2117fdbe94d3e29e12c539047d99eaff94fb6e7/deployment_iks.yml",
+  "version": "b22c2e36615f4d72e7297fbf3de9e99dffc4e14f",
+  "artifact": "https://raw.githubusercontent.com/nishubharti/node-js-app/b22c2e36615f4d72e7297fbf3de9e99dffc4e14f/deployment_iks.yml",
   "name": "node-js-app_IKS_deployment",
   "repository_url": "https://github.com/nishubharti/node-js-app",
-  "build_number": 13,
-  "commit_sha": "b2117fdbe94d3e29e12c539047d99eaff94fb6e7",
-  "pipeline_run_id": "e28c29d1-907f-47c1-b2be-dce81dd371ca",
+  "build_number": 20,
+  "commit_sha": "b22c2e36615f4d72e7297fbf3de9e99dffc4e14f",
+  "pipeline_run_id": "4af8043b-0fdb-4b0c-8954-1e898dc7f4b3",
   "type": "deployment",
   "sha256": "",
   "signature": ""
