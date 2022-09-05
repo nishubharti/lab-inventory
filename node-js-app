@@ -1,0 +1,16 @@
+{
+  "version": "b22c2e36615f4d72e7297fbf3de9e99dffc4e14f",
+  "artifact": "us.icr.io/ci-lab-namespace/node-js-app:20220905154856-main-b22c2e36615f4d72e7297fbf3de9e99dffc4e14f@sha256:6f397a87b48e039fa4908974fed5ab6837d0d4406c8314dfdc10dfb26693987a",
+  "name": "node-js-app",
+  "repository_url": "https://github.com/nishubharti/node-js-app",
+  "build_number": 34,
+  "commit_sha": "b22c2e36615f4d72e7297fbf3de9e99dffc4e14f",
+  "pipeline_run_id": "bac18f0b-6a1c-4bb0-9f56-22c5a8cda5d4",
+  "app_artifacts": {
+    "app": "lab-compliance-hello-app",
+    "tags": "20220905154856-main-b22c2e36615f4d72e7297fbf3de9e99dffc4e14f"
+  },
+  "type": "image",
+  "sha256": "sha256:6f397a87b48e039fa4908974fed5ab6837d0d4406c8314dfdc10dfb26693987a",
+  "provenance": "us.icr.io/ci-lab-namespace/node-js-app:20220905154856-main-b22c2e36615f4d72e7297fbf3de9e99dffc4e14f@sha256:6f397a87b48e039fa4908974fed5ab6837d0d4406c8314dfdc10dfb26693987a"
+}
