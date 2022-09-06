@@ -1,16 +1,17 @@
 {
-  "version": "b22c2e36615f4d72e7297fbf3de9e99dffc4e14f",
-  "artifact": "us.icr.io/ci-lab-namespace/node-js-app:20220905154856-main-b22c2e36615f4d72e7297fbf3de9e99dffc4e14f@sha256:6f397a87b48e039fa4908974fed5ab6837d0d4406c8314dfdc10dfb26693987a",
+  "version": "366cd67646ecc6eb760f7896e4a7a7138ccf1687",
+  "artifact": "us.icr.io/ci-lab-namespace/node-js-app:20220906051009-main-366cd67646ecc6eb760f7896e4a7a7138ccf1687@sha256:b9a47394351c5600b3b23c600133b25e769d68689c3f6c8c5f69a42339f737a4",
   "name": "node-js-app",
   "repository_url": "https://github.com/nishubharti/node-js-app",
-  "build_number": 34,
-  "commit_sha": "b22c2e36615f4d72e7297fbf3de9e99dffc4e14f",
-  "pipeline_run_id": "bac18f0b-6a1c-4bb0-9f56-22c5a8cda5d4",
+  "build_number": 22,
+  "commit_sha": "366cd67646ecc6eb760f7896e4a7a7138ccf1687",
+  "pipeline_run_id": "bd226c5e-c4ee-46a9-9cfb-929f2170bc65",
   "app_artifacts": {
-    "app": "lab-compliance-hello-app",
-    "tags": "20220905154856-main-b22c2e36615f4d72e7297fbf3de9e99dffc4e14f"
+    "app": "hello-compliance-app",
+    "tags": "20220906051009-main-366cd67646ecc6eb760f7896e4a7a7138ccf1687"
   },
   "type": "image",
-  "sha256": "sha256:6f397a87b48e039fa4908974fed5ab6837d0d4406c8314dfdc10dfb26693987a",
-  "provenance": "us.icr.io/ci-lab-namespace/node-js-app:20220905154856-main-b22c2e36615f4d72e7297fbf3de9e99dffc4e14f@sha256:6f397a87b48e039fa4908974fed5ab6837d0d4406c8314dfdc10dfb26693987a"
+  "sha256": "sha256:b9a47394351c5600b3b23c600133b25e769d68689c3f6c8c5f69a42339f737a4",
+  "provenance": "us.icr.io/ci-lab-namespace/node-js-app:20220906051009-main-366cd67646ecc6eb760f7896e4a7a7138ccf1687@sha256:b9a47394351c5600b3b23c600133b25e769d68689c3f6c8c5f69a42339f737a4",
+  "signature": "owGbwMvMwMHo9/OLxfTH1lqMpw+sTGJIFrvOXq2UXJRZkpmcmKNkVa2UmZKaV5JZUglip+QnZ6cW6RalpqUWpeYlpypZKZUW62UmF+ll5usnZ+rmJCbp5iXmphYXJCan6uflp6TqZhXrJhYUWBkZGBkZWBqYGZgaGhhY6uYmZubpGpuZJaeYmZuZmKUmJ5ulJpmbGaSZW1iapZokmieaGxpbJCenGZpZmCvV6ihl5iampyI5ITcxLzMttbhENyUzHUgBHVKckWhkamaVZJloYm5saWJsaphsamZgkGScZGScDGQYGgNZpqnmZpYpZhZmFpbJxmlmyRbJpmlmQB1GxsaWaebG5okmIMtKKgtAXkssyc/NTFZIzs8rATo3tUihODM9L7GktCgVpCi/oCQzPw8SRslFqUDFRQg9pnqGBnqmSkCjMoGhUZKYW6BkZWhmZmRiYmhkZFRb28lkzMLAyMEgK6bIsl1vUX/1Tj2t+oyNy2CRwcoEiggGLk4BmMiWGgGGeQVtD/Yc7UsJ8V5cfkFn+88bWz9IR290iNhymZ91afe8vx1r1ofw7WU8e2mBgm+jl67VWb0Cp/ie24WxR71kT73b+0lF89VrlpJ5Pn3FPmUubn411g9L5wYmstltr5i9qErxRej86ieCK/h2RUpNMuvOnffG5FX08j+7wt1/Xtozez7D8Umyruq5b9K4fzKdNHlg7H+WfZPcAlHh0m+XPa6kx/+tXTU1V3zGqlOV55yWCay+NEVrhvjantDP8zfceemwLPaYebOjn16Jpcz6DJ3zAWsXR0yISmI7PtlSUrl/wXRJyRIW9f/f4vUzw2ZdPJ9b5ndkmnNH+JZLf45rbBCYWXavV//LwUXl8hnxj5NzVnKVz8rMVr/sKZTQdvAzS8WP/k07nbfc5qxxD3eZLNk+b/q1QzOyEs92Hgp94SBh8eXI1k1mWbN++l32ei+lzqO7MvB60/JvK86vOc2Qy6Z9/YaBS1LmDJmy9WJ502QY01mzvz0J3c9pb9e35kJ2ecU+RTvzNLuXTjvdebc0pb76mpSu+b3dwPuy8gE9X4Urhssz/hobvv6X8Dvx5uLTK/qav840zDTne5rbfmFHfc2jDt3G+ZM3aJ2bs+l69YQZPm06FvNZeSoXFPxfs+XezcceHbm+W/3F+xaYGE+eLHyg3k860DSx//CfBQs7jO67xPpP6NJVrrzFcspew+coQ4q4zfrjGyvOl4oDAA=="
 }
